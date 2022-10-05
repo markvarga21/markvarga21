@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on web development,  to be more accurate at the backend, although I'm also making sometimes frontends too.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with frontend technologies and UI/UX design<br>🌱 I'm interested in machine learning, general artificial<br>intelligence, game development, mobil app development.<br>💬 Ask me about any web related stuff or if you want my opinion of some IT related topics :D
+🔭 I'm currently working on web development,  to be more accurate at the backend, although I'm also making sometimes frontends too.<br>🤝 I’m looking for help with frontend technologies and UI/UX design<br>🌱 I'm interested in machine learning, general artificial<br>intelligence, game development, mobil app development.<br>💬 Ask me about any web related stuff or if you want my opinion of some IT related topics :D
 
 
 ## 🌐 Socials:
